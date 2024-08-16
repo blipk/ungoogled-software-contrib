@@ -4,7 +4,7 @@ This script downloads and installs the binary dictionary files
 that ungoogled chromium uses for its spell checking feature.
 
 It will look for both OS install and Flatpak install config directories
-and install to both/either of them if they exist.
+and installs to both/either of them if they exist.
 
 A custom install directory can also be specified.
 
